@@ -1,0 +1,27 @@
+
+body {
+    background-color: lightblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    background-color: gray;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 100vw;
+    z-index: 1;
+}
+
+nav ul li {
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+    list-style-type: none;
+    text-align: center;
+}
+
+#brand {
+    float: left;
+}
