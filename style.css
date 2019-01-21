@@ -25,3 +25,11 @@ nav ul li {
 #brand {
     float: left;
 }
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: black;
+}
