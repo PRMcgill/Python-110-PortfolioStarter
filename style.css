@@ -33,3 +33,7 @@ nav ul li {
 .nav-link:hover {
     color: black;
 }
+
+.header {
+    margin-top: 20px !important;
+}
